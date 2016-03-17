@@ -1,7 +1,7 @@
 name: MAUDE
 favicon: null
 layout_spectrum: 0.6400318860542029
-typography_spectrum: 0.8627853412181139
+typography_spectrum: 0.61744
 title: MAUDE
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#fefefe'
+    - '#a39f9c'
+    - '#1c1b19'
+    - '#d4d0cf'
+    - '#4c4744'
   brandStrength: 0.058183074463158846
-  lightness: 0.25455373781733215
-  saturation: 0.5005764917004853
+  lightness: 1
+  saturation: 1
   rhythmicContrast: 0.24932186864316463
 purpose: []
