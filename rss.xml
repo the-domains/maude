@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[MAUDE]]></title>
         <description><![CDATA[MAUDE]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/maude/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Mar 2016 20:25:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 17 Mar 2016 20:26:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/maude/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d70137b3-6854-42ae-9765-65b3daeef68c.jpg">]]></description>
+            <link>https://thegrid.ai/maude/9ede0154-6fa6-4ecf-954b-1dd781f9fa79/index.html</link>
+            <guid isPermaLink="false">9ede0154-6fa6-4ecf-954b-1dd781f9fa79</guid>
+            <pubDate>Thu, 17 Mar 2016 20:25:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7339f1c6-c4ee-43aa-b237-f262154020f4.jpg">]]></description>
-            <link>undefinedc689e7b1-2db1-4f32-94f3-29d0f7c01c62/index.html</link>
+            <link>https://thegrid.ai/maude/c689e7b1-2db1-4f32-94f3-29d0f7c01c62/index.html</link>
             <guid isPermaLink="false">c689e7b1-2db1-4f32-94f3-29d0f7c01c62</guid>
             <pubDate>Thu, 17 Mar 2016 20:24:39 GMT</pubDate>
         </item>
