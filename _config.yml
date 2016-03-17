@@ -1,6 +1,6 @@
 name: MAUDE
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.71861
 typography_spectrum: 0.61744
 title: MAUDE
 cta:
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.058183074463158846
   lightness: 1
   saturation: 1
-  rhythmicContrast: 0.24932186864316463
+  rhythmicContrast: 0.75
 purpose: []
